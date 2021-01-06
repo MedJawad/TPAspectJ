@@ -1,0 +1,36 @@
+----------------------------------------------------------------
+CLIENT JAWAD A FAIT L OPERATION << verser >> AVEC UN MONTANT DE 10000.0
+SOLDE AVANT 0.0 
+SOLDE APRES 10000.0 
+L'operation a pris 0.007238ms pour s'executer
+----------------------------------------------------------------
+----------------------------------------------------------------
+CLIENT JAWAD A FAIT L OPERATION << verser >> AVEC UN MONTANT DE 5000.0
+SOLDE AVANT 10000.0 
+SOLDE APRES 15000.0 
+L'operation a pris 0.004624ms pour s'executer
+----------------------------------------------------------------
+----------------------------------------------------------------
+CLIENT JAWAD A FAIT L OPERATION << retirer >> AVEC UN MONTANT DE 9000.0
+SOLDE AVANT 15000.0 
+SOLDE APRES 6000.0 
+L'operation a pris 0.008016ms pour s'executer
+----------------------------------------------------------------
+----------------------------------------------------------------
+CLIENT JAWAD A FAIT L OPERATION << verser >> AVEC UN MONTANT DE 10000.0
+SOLDE AVANT 0.0 
+SOLDE APRES 10000.0 
+L'operation a pris 0.013239ms pour s'executer
+----------------------------------------------------------------
+----------------------------------------------------------------
+CLIENT JAWAD A FAIT L OPERATION << verser >> AVEC UN MONTANT DE 5000.0
+SOLDE AVANT 10000.0 
+SOLDE APRES 15000.0 
+L'operation a pris 0.010084ms pour s'executer
+----------------------------------------------------------------
+----------------------------------------------------------------
+CLIENT JAWAD A FAIT L OPERATION << retirer >> AVEC UN MONTANT DE 9000.0
+SOLDE AVANT 15000.0 
+SOLDE APRES 6000.0 
+L'operation a pris 0.007682ms pour s'executer
+----------------------------------------------------------------
